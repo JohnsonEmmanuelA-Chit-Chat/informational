@@ -1,2 +1,2 @@
-# infromational
+# informational
 informational
