@@ -1,9 +1,9 @@
-# informational
-informational
-https://diveinto.html5doctor.com/
-https://cse.osu.edu/news/2024/10/cisco-and-ohio-state-research-partnership-pushes-innovation
-in·for·ma·tion·al
-/ˌinfərˈmāSH(ə)nəl/
-adjective
-relating to or characterized by facts about something; providing information.
-"an informational brochure"
+# The Group Concept
+The  elementary opertions of artmetic consit in combining two numbers a nd b in accordance with some well-defined rules so as to produce a unique thrid number c. For instance, if the law of consumption is ordinary multiplication, we should have c=ab.
+  When a dn b are given , the number c can be found in each concrete case.
+      But we know that multiplication of two or more numbers obeys certain formal laws which hold for all products, irrespective of numerical values, thus:
+                                                                ab=ba(commutative law)
+                                                              (ab)c=a(bc) (associative law)   
+                                                                 1a = a1 = a 
+  The last equation serves to introduce one particular number called unity
+     The sceond law statesmore explicitly that, if we put ab=s and bc = t, then it is always true that sc=at.
