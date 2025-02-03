@@ -6,4 +6,4 @@ The  elementary opertions of arithmetic consist in combining two numbers a and b
                                                               (ab)c=a(bc) (associative law)   
                                                                  1a = a1 = a 
   The last equation serves to introduce one particular number called unity
-     The sceond law states more explicitly that, if we put ab=s and bc = t, then it is always true that sc=at. https://youtu.be/4-H15-CeFQo?si=YTJjnGhhK5bmDsbX Arsenal 5-1 Man City
+     The sceond law states more explicitly that, if we put ab=s and bc = t, then it is always true that sc=at. https://youtu.be/jk3Jitb33i0?si=JiCl7Bm091BVuwPp Arsenal v. Manchester City | PREMIER LEAGUE HIGHLIGHTS 
